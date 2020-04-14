@@ -1,0 +1,7 @@
+有关运行状态截图：
+lab1 lab2 分别表示任务一，任务二的作业
+graph job 表示任务三的构建人物关系图的作业
+PRIter job 表示任务四的pagerank迭代作业
+LabelPropagation_iter表示任务五标签传播的作业运行截图
+total sort job表示任务六全局排序作业运行截图
+cluster job表示任务六标签聚集作业运行截图
